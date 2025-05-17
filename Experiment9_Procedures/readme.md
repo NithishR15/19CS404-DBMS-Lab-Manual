@@ -1,4 +1,4 @@
-# Experiment 9: PL/SQL – Procedures and Functions\
+# Experiment 9: PL/SQL – Procedures and Functions
 ## NAME: NITHISH R
 ## REG NO: 212223040135
 
